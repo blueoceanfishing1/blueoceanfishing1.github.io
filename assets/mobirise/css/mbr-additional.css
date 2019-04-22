@@ -8308,37 +8308,76 @@ body {
   padding-bottom: 15px;
   background-color: #002e72;
 }
-.cid-rl4okUjg73 {
-  background: #002e72;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rl4okUjg73 .image-block {
-  margin: auto;
-}
-.cid-rl4okUjg73 figcaption {
-  position: relative;
-}
-.cid-rl4okUjg73 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rl4okUjg73 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-re23qjXQrh {
-  padding-top: 135px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/blue-2137334-640-640x335.jpg");
+  background-image: url("../../../assets/images/schermafdruk-2019-04-22-10.18.10.png");
 }
 .cid-re23qjXQrh H3 {
   text-align: left;
 }
 .cid-re23qjXQrh H1 {
-  text-align: left;
+  text-align: center;
+}
+.cid-rom1hPY4jO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rom1hPY4jO .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rom1hPY4jO .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rom1hPY4jO .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rom1hPY4jO .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rom1hPY4jO .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rom1hPY4jO .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rom1hPY4jO .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rom1hPY4jO .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rom1hPY4jO .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rgm5COZMGP {
   padding-top: 30px;
@@ -8627,7 +8666,7 @@ body {
 .cid-rjSKZI1sND {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/iker-urteaga-246955-unsplash-1.jpg");
 }
 .cid-rjSKZI1sND .card-box {
   padding: 0 2rem;
@@ -8816,74 +8855,6 @@ body {
 @media (max-width: 768px) {
   .cid-rjUYiYevUS .image-block {
     width: 100% !important;
-  }
-}
-.cid-rjV1F5eTk4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #002e72;
-}
-@media (max-width: 767px) {
-  .cid-rjV1F5eTk4 .content {
-    text-align: center;
-  }
-  .cid-rjV1F5eTk4 .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rjV1F5eTk4 .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rjV1F5eTk4 .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rjV1F5eTk4 .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-rjV1F5eTk4 .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rjV1F5eTk4 .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-rjV1F5eTk4 .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rjV1F5eTk4 .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-rjV1F5eTk4 .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rjV1F5eTk4 .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rjV1F5eTk4 .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rjV1F5eTk4 .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
   }
 }
 .cid-re2jn2iySS {
