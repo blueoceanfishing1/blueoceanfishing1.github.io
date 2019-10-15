@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Blue Ocean Fishing",
-    "currentPage": "html.html",
+    "currentPage": "business-solutions.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8696,26 +8696,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/korton-website-725x518.png",
-                "thumb": "@PROJECT_PATH@/assets/images/korton-website-725x518-724x231.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": true
-              },
-              {
-                "tags": "Geweldige",
-                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/informationlab-website-1335x593.png",
                 "thumb": "@PROJECT_PATH@/assets/images/informationlab-website-1335x593-800x355.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Geweldige",
@@ -8737,6 +8724,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/logo-laposta-y18-v2-800x232-bw.png",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-laposta-y18-v2-800x232-bw-800x231.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/provider-3.png",
+                "thumb": "@PROJECT_PATH@/assets/images/provider-3-245x100.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
